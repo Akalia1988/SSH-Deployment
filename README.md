@@ -1,7 +1,7 @@
 # SSH-Deployment
 SSH Deployment Task in Azure DevOps Pipelines
 
-1. Create and Upload the Public Key to Azure VM
+1.Create and Upload the Public Key to Azure VM
 
 To set up our SSH Task we need a SSH Service Connection but to configure the connection we need to generate the Public and Private keys.
 
